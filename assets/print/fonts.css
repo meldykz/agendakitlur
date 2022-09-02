@@ -1,0 +1,11 @@
+@font-face {
+font-family:"Proxima Nova";
+font-weight:400;
+font-style:normal;
+src:url("https://fonts.zohostatic.com/proximanova/proximanova_regular_macroman/ProximaNova-Reg-webfont.woff") format("woff");}
+@font-face {
+font-family:"Proxima Nova";
+font-weight:500;
+font-style:normal;
+src:url("https://fonts.zohostatic.com/proximanova/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.woff") format("woff");}
+
